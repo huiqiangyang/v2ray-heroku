@@ -1,11 +1,11 @@
 {
-    "name": "V2Ray",
+    "name": "proxy",
     "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["proxy"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "ad806487-2d26-4636-98b6-482365"
         },
         "AID": {
             "description": "AlterID",
